@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   id="svg13202"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-wifi.svg">
+  <metadata
+     id="metadata13228">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview13226"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-62.146082"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13202" />
+  <defs
+     id="defs13204">
+    <linearGradient
+       xlink:href="#1"
+       id="3"
+       x1="-19.915"
+       y1="1048.7"
+       x2="-19.996"
+       y2="1025.51"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(51.949,-1001.46)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="354.29"
+       x2="-704.05"
+       y1="647.77"
+       x1="-701.19"
+       id="2"
+       gradientTransform="matrix(0.01590505,0,0,0.01845141,129.51168,-45.007092)">
+      <stop
+         stop-color="#93cfff"
+         id="stop13208" />
+      <stop
+         offset="1"
+         stop-color="#cde8fe"
+         id="stop13210" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#1"
+       id="0"
+       x1="59.12"
+       y1="-13.295"
+       x2="59.15"
+       y2="-37.783"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52660675,0,0,0.52570737,-19.441377,28.676662)" />
+    <linearGradient
+       id="1">
+      <stop
+         stop-color="#289bf7"
+         id="stop13214" />
+      <stop
+         offset="1"
+         stop-color="#71b9f1"
+         id="stop13216" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#80b3ff;stroke:none;stroke-width:0.32295448"
+     id="rect13222"
+     rx="1.2142509"
+     width="58.487045"
+     height="43.170807"
+     x="3.0217602"
+     y="10.17371" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     id="path26"
+     d="m 44.745763,29.950268 c -5.837696,0 -11.328221,2.270875 -15.45622,6.398875 L 31.6484,38.708 c 3.497861,-3.497862 8.148995,-5.4287 13.097363,-5.4287 4.948368,0 9.606635,1.930838 13.097363,5.4287 l 2.358857,-2.358857 c -4.128,-4.128 -9.618525,-6.398875 -15.45622,-6.398875 m 0,5.920921 c -4.256405,0 -8.256,1.657382 -11.266396,4.667778 l 2.354102,2.354101 c 2.37788,-2.37788 5.545216,-3.692847 8.912294,-3.692847 3.367078,0 6.532036,1.31259 8.912294,3.692847 l 2.354101,-2.354101 c -3.010396,-3.010396 -7.00999,-4.667778 -11.266395,-4.667778 m 0,5.925677 c -2.672737,0 -5.188534,1.039133 -7.078949,2.929548 l 2.358857,2.358857 c 1.260276,-1.260277 2.936682,-1.954617 4.717714,-1.954617 1.78341,0 3.457437,0.69434 4.717714,1.954617 l 2.358857,-2.358857 c -1.890415,-1.890415 -4.403834,-2.929548 -7.078949,-2.929548 m 0,6.622396 c -0.865548,0 -1.731097,0.332903 -2.401659,0.993953 -0.0024,0.0024 -0.04756,0.04518 -0.06896,0.06896 l 2.461106,2.465861 2.465861,-2.45635 c -0.0024,-0.02616 -0.04993,-0.05469 -0.07371,-0.07847 -0.661051,-0.66105 -1.526599,-0.993953 -2.401659,-0.993953" />
+</svg>

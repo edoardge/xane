@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cpu.svg">
+  <metadata
+     id="metadata537">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview535"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-9.1525424"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath6">
+      <path
+         d="m108.81 58c-1.56 0-2.81 1.254-2.81 2.812v24.375c0 1.559 1.25 2.813 2.81 2.813h24.375c1.57 0 2.82-1.254 2.82-2.812v-24.375c0-1.559-1.25-2.813-2.81-2.813h-24.375zm7.188 4.5h10v8.75h5l-10 13.75-10-13.75h5v-8.75"
+         id="path8" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter10">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur12" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter14">
+      <feGaussianBlur
+         stdDeviation="1.2"
+         id="feGaussianBlur16" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter18">
+      <feGaussianBlur
+         stdDeviation=".6375"
+         id="feGaussianBlur20" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x1="-88"
+       x2="-58"
+       id="linearGradient22">
+      <stop
+         stop-color="#499119"
+         id="stop24" />
+      <stop
+         offset="1"
+         stop-color="#8fd625"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       y1="58"
+       x2="0"
+       y2="79.1"
+       id="linearGradient28" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y1="72.38"
+       x2="0"
+       y2="63.54"
+       id="linearGradient30">
+      <stop
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       id="2"
+       x1="-42"
+       x2="-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.723072,0,0,0.723072,-6.637664,-6.6481808)">
+      <stop
+         stop-color="#d3d3d3"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#fcf9f9"
+         id="stop39" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0059.99417)"
+       y1="92.54"
+       x2="0"
+       y2="7.02"
+       id="linearGradient41">
+      <stop
+         id="stop43" />
+      <stop
+         offset="1"
+         stop-opacity=".588"
+         id="stop45" />
+    </linearGradient>
+    <linearGradient
+       id="0">
+      <stop
+         stop-color="#fff"
+         id="stop48" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         stop-color="#fff"
+         id="stop50" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       y1="71.38"
+       x2="0"
+       y2="62.54"
+       id="linearGradient52" />
+    <linearGradient
+       id="1"
+       x1="410.57"
+       y1="547.8"
+       x2="408.57"
+       y2="499.8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90384,0,0,0.90384,-345.28,-449.44)">
+      <stop
+         stop-color="#124da4"
+         id="stop55" />
+      <stop
+         offset="1"
+         stop-color="#2896ff"
+         id="stop57" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g65"
+     style="font-family:'Bitstream Vera Sans'"
+     transform="matrix(0.723072,0,0,0.723072,6.6481808,6.637664)">
+    <g
+       font-size="12.666"
+       id="g67"
+       style="font-size:12.66600037px">
+      <text
+         y="10.813"
+         x="877.22998"
+         id="text69"
+         style="opacity:0.8">
+        <tspan
+           y="10.813"
+           x="877.22998"
+           id="tspan71" />
+      </text>
+      <text
+         y="-29.929001"
+         x="901.19"
+         id="text73"
+         style="opacity:0.8">
+        <tspan
+           y="-29.929001"
+           x="901.19"
+           id="tspan75" />
+      </text>
+      <text
+         y="-60.009998"
+         x="-569.37"
+         id="text77"
+         style="opacity:0.8">
+        <tspan
+           y="-60.009998"
+           x="-569.37"
+           id="tspan79" />
+      </text>
+      <text
+         y="685.54999"
+         x="-2393.0601"
+         id="text81"
+         style="opacity:0.8">
+        <tspan
+           y="685.54999"
+           x="-2393.0601"
+           id="tspan83" />
+      </text>
+      <text
+         y="-445.32999"
+         x="-454.88"
+         id="text85"
+         style="opacity:0.8">
+        <tspan
+           y="-445.32999"
+           x="-454.88"
+           id="tspan87" />
+      </text>
+      <text
+         y="-858.79999"
+         x="352.72"
+         id="text89"
+         style="opacity:0.8">
+        <tspan
+           y="-858.79999"
+           x="352.72"
+           id="tspan91" />
+      </text>
+      <text
+         y="-899.53998"
+         x="376.67999"
+         id="text93"
+         style="opacity:0.8">
+        <tspan
+           y="-899.53998"
+           x="376.67999"
+           id="tspan95" />
+      </text>
+      <text
+         y="-906.75"
+         x="-1114.78"
+         id="text97"
+         style="opacity:0.8">
+        <tspan
+           y="-906.75"
+           x="-1114.78"
+           id="tspan99" />
+      </text>
+      <text
+         y="-1179.98"
+         x="345.76001"
+         id="text101"
+         style="opacity:0.8">
+        <tspan
+           y="-1179.98"
+           x="345.76001"
+           id="tspan103" />
+      </text>
+      <text
+         y="-553.28998"
+         x="1831.89"
+         id="text105"
+         style="opacity:0.8">
+        <tspan
+           y="-553.28998"
+           x="1831.89"
+           id="tspan107" />
+      </text>
+      <text
+         y="-594.03003"
+         x="1855.85"
+         id="text109"
+         style="opacity:0.8">
+        <tspan
+           y="-594.03003"
+           x="1855.85"
+           id="tspan111" />
+      </text>
+      <text
+         y="-601.23999"
+         x="364.38"
+         id="text113"
+         style="opacity:0.8">
+        <tspan
+           y="-601.23999"
+           x="364.38"
+           id="tspan115" />
+      </text>
+      <text
+         y="-874.47998"
+         x="1824.9301"
+         id="text117"
+         style="opacity:0.8">
+        <tspan
+           y="-874.47998"
+           x="1824.9301"
+           id="tspan119" />
+      </text>
+      <text
+         y="-649.34003"
+         x="-573.42999"
+         id="text121"
+         style="opacity:0.8">
+        <tspan
+           y="-649.34003"
+           x="-573.42999"
+           id="tspan123" />
+      </text>
+      <text
+         y="96.220001"
+         x="-2397.1201"
+         id="text125"
+         style="opacity:0.8">
+        <tspan
+           y="96.220001"
+           x="-2397.1201"
+           id="tspan127" />
+      </text>
+      <text
+         y="189.09"
+         x="-682.35999"
+         id="text129"
+         style="opacity:0.8">
+        <tspan
+           y="189.09"
+           x="-682.35999"
+           id="tspan131" />
+      </text>
+      <text
+         y="9.908"
+         x="426.66"
+         id="text133"
+         style="opacity:0.8">
+        <tspan
+           y="9.908"
+           x="426.66"
+           id="tspan135" />
+      </text>
+      <text
+         y="-30.834"
+         x="450.62"
+         id="text137"
+         style="opacity:0.8">
+        <tspan
+           y="-30.834"
+           x="450.62"
+           id="tspan139" />
+      </text>
+      <text
+         y="-38.040001"
+         x="-1040.84"
+         id="text141"
+         style="opacity:0.8">
+        <tspan
+           y="-38.040001"
+           x="-1040.84"
+           id="tspan143" />
+      </text>
+      <text
+         y="-311.28"
+         x="419.70001"
+         id="text145"
+         style="opacity:0.8">
+        <tspan
+           y="-311.28"
+           x="419.70001"
+           id="tspan147" />
+      </text>
+      <text
+         y="-40.757999"
+         x="-608.03003"
+         id="text149"
+         style="opacity:0.8">
+        <tspan
+           y="-40.757999"
+           x="-608.03003"
+           id="tspan151" />
+      </text>
+      <text
+         y="704.79999"
+         x="-2431.72"
+         id="text153"
+         style="opacity:0.8">
+        <tspan
+           y="704.79999"
+           x="-2431.72"
+           id="tspan155" />
+      </text>
+      <text
+         y="-902.28998"
+         x="-456.94"
+         id="text157"
+         style="opacity:0.8">
+        <tspan
+           y="-902.28998"
+           x="-456.94"
+           id="tspan159" />
+      </text>
+      <text
+         y="-1315.76"
+         x="350.66"
+         id="text161"
+         style="opacity:0.8">
+        <tspan
+           y="-1315.76"
+           x="350.66"
+           id="tspan163" />
+      </text>
+      <text
+         y="-1356.5"
+         x="374.62"
+         id="text165"
+         style="opacity:0.8">
+        <tspan
+           y="-1356.5"
+           x="374.62"
+           id="tspan167" />
+      </text>
+      <text
+         y="-1363.71"
+         x="-1116.84"
+         id="text169"
+         style="opacity:0.8">
+        <tspan
+           y="-1363.71"
+           x="-1116.84"
+           id="tspan171" />
+      </text>
+      <text
+         y="-1636.9399"
+         x="343.70001"
+         id="text173"
+         style="opacity:0.8">
+        <tspan
+           y="-1636.9399"
+           x="343.70001"
+           id="tspan175" />
+      </text>
+      <text
+         y="-1010.25"
+         x="1829.83"
+         id="text177"
+         style="opacity:0.8">
+        <tspan
+           y="-1010.25"
+           x="1829.83"
+           id="tspan179" />
+      </text>
+      <text
+         y="-1050.99"
+         x="1853.79"
+         id="text181"
+         style="opacity:0.8">
+        <tspan
+           y="-1050.99"
+           x="1853.79"
+           id="tspan183" />
+      </text>
+      <text
+         y="-1058.2"
+         x="362.32001"
+         id="text185"
+         style="opacity:0.8">
+        <tspan
+           y="-1058.2"
+           x="362.32001"
+           id="tspan187" />
+      </text>
+      <text
+         y="-1331.4399"
+         x="1822.87"
+         id="text189"
+         style="opacity:0.8">
+        <tspan
+           y="-1331.4399"
+           x="1822.87"
+           id="tspan191" />
+      </text>
+      <text
+         y="-1106.3"
+         x="-575.48999"
+         id="text193"
+         style="opacity:0.8">
+        <tspan
+           y="-1106.3"
+           x="-575.48999"
+           id="tspan195" />
+      </text>
+      <text
+         y="-360.73999"
+         x="-2399.1799"
+         id="text197"
+         style="opacity:0.8">
+        <tspan
+           y="-360.73999"
+           x="-2399.1799"
+           id="tspan199" />
+      </text>
+      <text
+         y="-267.87"
+         x="-684.41998"
+         id="text201"
+         style="opacity:0.8">
+        <tspan
+           y="-267.87"
+           x="-684.41998"
+           id="tspan203" />
+      </text>
+      <text
+         y="-26.955999"
+         x="155.59"
+         id="text205"
+         style="opacity:0.8">
+        <tspan
+           y="-26.955999"
+           x="155.59"
+           id="tspan207" />
+      </text>
+      <text
+         y="-67.699997"
+         x="179.55"
+         id="text209"
+         style="opacity:0.8">
+        <tspan
+           y="-67.699997"
+           x="179.55"
+           id="tspan211" />
+      </text>
+      <text
+         y="-261.73001"
+         x="-1090.26"
+         id="text213"
+         style="opacity:0.8">
+        <tspan
+           y="-261.73001"
+           x="-1090.26"
+           id="tspan215" />
+      </text>
+      <text
+         y="-675.20001"
+         x="-282.66"
+         id="text217"
+         style="opacity:0.8">
+        <tspan
+           y="-675.20001"
+           x="-282.66"
+           id="tspan219" />
+      </text>
+      <text
+         y="-715.94"
+         x="-258.70001"
+         id="text221"
+         style="opacity:0.8">
+        <tspan
+           y="-715.94"
+           x="-258.70001"
+           id="tspan223" />
+      </text>
+      <text
+         y="-723.15002"
+         x="-1750.16"
+         id="text225"
+         style="opacity:0.8">
+        <tspan
+           y="-723.15002"
+           x="-1750.16"
+           id="tspan227" />
+      </text>
+      <text
+         y="-996.38"
+         x="-289.62"
+         id="text229"
+         style="opacity:0.8">
+        <tspan
+           y="-996.38"
+           x="-289.62"
+           id="tspan231" />
+      </text>
+      <text
+         y="-369.69"
+         x="1196.5"
+         id="text233"
+         style="opacity:0.8">
+        <tspan
+           y="-369.69"
+           x="1196.5"
+           id="tspan235" />
+      </text>
+      <text
+         y="-410.42999"
+         x="1220.46"
+         id="text237"
+         style="opacity:0.8">
+        <tspan
+           y="-410.42999"
+           x="1220.46"
+           id="tspan239" />
+      </text>
+      <text
+         y="-417.64001"
+         x="-271"
+         id="text241"
+         style="opacity:0.8">
+        <tspan
+           y="-417.64001"
+           x="-271"
+           id="tspan243" />
+      </text>
+      <text
+         y="-690.88"
+         x="1189.54"
+         id="text245"
+         style="opacity:0.8">
+        <tspan
+           y="-690.88"
+           x="1189.54"
+           id="tspan247" />
+      </text>
+      <text
+         y="-465.73001"
+         x="-1208.8199"
+         id="text249"
+         style="opacity:0.8">
+        <tspan
+           y="-465.73001"
+           x="-1208.8199"
+           id="tspan251" />
+      </text>
+      <text
+         y="279.82001"
+         x="-3032.5"
+         id="text253"
+         style="opacity:0.8">
+        <tspan
+           y="279.82001"
+           x="-3032.5"
+           id="tspan255" />
+      </text>
+    </g>
+    <text
+       font-size="14"
+       y="1159.42"
+       x="-664.27002"
+       transform="matrix(0.90475,0,0,0.90475,-716.75,-676.29)"
+       id="text257"
+       style="font-size:14px;opacity:0.8">
+      <tspan
+         y="1159.42"
+         x="-664.27002"
+         id="tspan259" />
+    </text>
+    <g
+       font-size="12.666"
+       id="g261"
+       style="font-size:12.66600037px">
+      <text
+         y="18.049999"
+         x="877.22998"
+         id="text263"
+         style="opacity:0.8">
+        <tspan
+           y="18.049999"
+           x="877.22998"
+           id="tspan265" />
+      </text>
+      <text
+         y="-22.691"
+         x="901.19"
+         id="text267"
+         style="opacity:0.8">
+        <tspan
+           y="-22.691"
+           x="901.19"
+           id="tspan269" />
+      </text>
+      <text
+         y="-52.769001"
+         x="-569.37"
+         id="text271"
+         style="opacity:0.8">
+        <tspan
+           y="-52.769001"
+           x="-569.37"
+           id="tspan273" />
+      </text>
+      <text
+         y="692.78003"
+         x="-2393.0601"
+         id="text275"
+         style="opacity:0.8">
+        <tspan
+           y="692.78003"
+           x="-2393.0601"
+           id="tspan277" />
+      </text>
+      <text
+         y="-438.09"
+         x="-454.88"
+         id="text279"
+         style="opacity:0.8">
+        <tspan
+           y="-438.09"
+           x="-454.88"
+           id="tspan281" />
+      </text>
+      <text
+         y="-851.56"
+         x="352.72"
+         id="text283"
+         style="opacity:0.8">
+        <tspan
+           y="-851.56"
+           x="352.72"
+           id="tspan285" />
+      </text>
+      <text
+         y="-892.29999"
+         x="376.67999"
+         id="text287"
+         style="opacity:0.8">
+        <tspan
+           y="-892.29999"
+           x="376.67999"
+           id="tspan289" />
+      </text>
+      <text
+         y="-899.51001"
+         x="-1114.78"
+         id="text291"
+         style="opacity:0.8">
+        <tspan
+           y="-899.51001"
+           x="-1114.78"
+           id="tspan293" />
+      </text>
+      <text
+         y="-1172.75"
+         x="345.76001"
+         id="text295"
+         style="opacity:0.8">
+        <tspan
+           y="-1172.75"
+           x="345.76001"
+           id="tspan297" />
+      </text>
+      <text
+         y="-546.04999"
+         x="1831.89"
+         id="text299"
+         style="opacity:0.8">
+        <tspan
+           y="-546.04999"
+           x="1831.89"
+           id="tspan301" />
+      </text>
+      <text
+         y="-586.79999"
+         x="1855.85"
+         id="text303"
+         style="opacity:0.8">
+        <tspan
+           y="-586.79999"
+           x="1855.85"
+           id="tspan305" />
+      </text>
+      <text
+         y="-594.01001"
+         x="364.38"
+         id="text307"
+         style="opacity:0.8">
+        <tspan
+           y="-594.01001"
+           x="364.38"
+           id="tspan309" />
+      </text>
+      <text
+         y="-867.23999"
+         x="1824.9301"
+         id="text311"
+         style="opacity:0.8">
+        <tspan
+           y="-867.23999"
+           x="1824.9301"
+           id="tspan313" />
+      </text>
+      <text
+         y="-642.09998"
+         x="-573.42999"
+         id="text315"
+         style="opacity:0.8">
+        <tspan
+           y="-642.09998"
+           x="-573.42999"
+           id="tspan317" />
+      </text>
+      <text
+         y="103.46"
+         x="-2397.1201"
+         id="text319"
+         style="opacity:0.8">
+        <tspan
+           y="103.46"
+           x="-2397.1201"
+           id="tspan321" />
+      </text>
+      <text
+         y="196.33"
+         x="-682.35999"
+         id="text323"
+         style="opacity:0.8">
+        <tspan
+           y="196.33"
+           x="-682.35999"
+           id="tspan325" />
+      </text>
+      <text
+         y="17.15"
+         x="426.66"
+         id="text327"
+         style="opacity:0.8">
+        <tspan
+           y="17.15"
+           x="426.66"
+           id="tspan329" />
+      </text>
+      <text
+         y="-23.596001"
+         x="450.62"
+         id="text331"
+         style="opacity:0.8">
+        <tspan
+           y="-23.596001"
+           x="450.62"
+           id="tspan333" />
+      </text>
+      <text
+         y="-30.806"
+         x="-1040.84"
+         id="text335"
+         style="opacity:0.8">
+        <tspan
+           y="-30.806"
+           x="-1040.84"
+           id="tspan337" />
+      </text>
+      <text
+         y="-304.04001"
+         x="419.70001"
+         id="text339"
+         style="opacity:0.8">
+        <tspan
+           y="-304.04001"
+           x="419.70001"
+           id="tspan341" />
+      </text>
+      <text
+         y="-33.52"
+         x="-608.03003"
+         id="text343"
+         style="opacity:0.8">
+        <tspan
+           y="-33.52"
+           x="-608.03003"
+           id="tspan345" />
+      </text>
+      <text
+         y="712.03003"
+         x="-2431.72"
+         id="text347"
+         style="opacity:0.8">
+        <tspan
+           y="712.03003"
+           x="-2431.72"
+           id="tspan349" />
+      </text>
+      <text
+         y="-895.04999"
+         x="-456.94"
+         id="text351"
+         style="opacity:0.8">
+        <tspan
+           y="-895.04999"
+           x="-456.94"
+           id="tspan353" />
+      </text>
+      <text
+         y="-1308.52"
+         x="350.66"
+         id="text355"
+         style="opacity:0.8">
+        <tspan
+           y="-1308.52"
+           x="350.66"
+           id="tspan357" />
+      </text>
+      <text
+         y="-1349.26"
+         x="374.62"
+         id="text359"
+         style="opacity:0.8">
+        <tspan
+           y="-1349.26"
+           x="374.62"
+           id="tspan361" />
+      </text>
+      <text
+         y="-1356.47"
+         x="-1116.84"
+         id="text363"
+         style="opacity:0.8">
+        <tspan
+           y="-1356.47"
+           x="-1116.84"
+           id="tspan365" />
+      </text>
+      <text
+         y="-1629.71"
+         x="343.70001"
+         id="text367"
+         style="opacity:0.8">
+        <tspan
+           y="-1629.71"
+           x="343.70001"
+           id="tspan369" />
+      </text>
+      <text
+         y="-1003.02"
+         x="1829.83"
+         id="text371"
+         style="opacity:0.8">
+        <tspan
+           y="-1003.02"
+           x="1829.83"
+           id="tspan373" />
+      </text>
+      <text
+         y="-1043.76"
+         x="1853.79"
+         id="text375"
+         style="opacity:0.8">
+        <tspan
+           y="-1043.76"
+           x="1853.79"
+           id="tspan377" />
+      </text>
+      <text
+         y="-1050.97"
+         x="362.32001"
+         id="text379"
+         style="opacity:0.8">
+        <tspan
+           y="-1050.97"
+           x="362.32001"
+           id="tspan381" />
+      </text>
+      <text
+         y="-1324.2"
+         x="1822.87"
+         id="text383"
+         style="opacity:0.8">
+        <tspan
+           y="-1324.2"
+           x="1822.87"
+           id="tspan385" />
+      </text>
+      <text
+         y="-1099.0601"
+         x="-575.48999"
+         id="text387"
+         style="opacity:0.8">
+        <tspan
+           y="-1099.0601"
+           x="-575.48999"
+           id="tspan389" />
+      </text>
+      <text
+         y="-353.5"
+         x="-2399.1799"
+         id="text391"
+         style="opacity:0.8">
+        <tspan
+           y="-353.5"
+           x="-2399.1799"
+           id="tspan393" />
+      </text>
+      <text
+         y="-260.63"
+         x="-684.41998"
+         id="text395"
+         style="opacity:0.8">
+        <tspan
+           y="-260.63"
+           x="-684.41998"
+           id="tspan397" />
+      </text>
+      <text
+         y="-19.718"
+         x="155.59"
+         id="text399"
+         style="opacity:0.8">
+        <tspan
+           y="-19.718"
+           x="155.59"
+           id="tspan401" />
+      </text>
+      <text
+         y="-60.459999"
+         x="179.55"
+         id="text403"
+         style="opacity:0.8">
+        <tspan
+           y="-60.459999"
+           x="179.55"
+           id="tspan405" />
+      </text>
+      <text
+         y="-254.49001"
+         x="-1090.26"
+         id="text407"
+         style="opacity:0.8">
+        <tspan
+           y="-254.49001"
+           x="-1090.26"
+           id="tspan409" />
+      </text>
+      <text
+         y="-667.96002"
+         x="-282.66"
+         id="text411"
+         style="opacity:0.8">
+        <tspan
+           y="-667.96002"
+           x="-282.66"
+           id="tspan413" />
+      </text>
+      <text
+         y="-708.70001"
+         x="-258.70001"
+         id="text415"
+         style="opacity:0.8">
+        <tspan
+           y="-708.70001"
+           x="-258.70001"
+           id="tspan417" />
+      </text>
+      <text
+         y="-715.90997"
+         x="-1750.16"
+         id="text419"
+         style="opacity:0.8">
+        <tspan
+           y="-715.90997"
+           x="-1750.16"
+           id="tspan421" />
+      </text>
+      <text
+         y="-989.14001"
+         x="-289.62"
+         id="text423"
+         style="opacity:0.8">
+        <tspan
+           y="-989.14001"
+           x="-289.62"
+           id="tspan425" />
+      </text>
+      <text
+         y="-362.45001"
+         x="1196.5"
+         id="text427"
+         style="opacity:0.8">
+        <tspan
+           y="-362.45001"
+           x="1196.5"
+           id="tspan429" />
+      </text>
+      <text
+         y="-403.19"
+         x="1220.46"
+         id="text431"
+         style="opacity:0.8">
+        <tspan
+           y="-403.19"
+           x="1220.46"
+           id="tspan433" />
+      </text>
+      <text
+         y="-410.39999"
+         x="-271"
+         id="text435"
+         style="opacity:0.8">
+        <tspan
+           y="-410.39999"
+           x="-271"
+           id="tspan437" />
+      </text>
+      <text
+         y="-683.64001"
+         x="1189.54"
+         id="text439"
+         style="opacity:0.8">
+        <tspan
+           y="-683.64001"
+           x="1189.54"
+           id="tspan441" />
+      </text>
+      <text
+         y="-458.5"
+         x="-1208.8199"
+         id="text443"
+         style="opacity:0.8">
+        <tspan
+           y="-458.5"
+           x="-1208.8199"
+           id="tspan445" />
+      </text>
+      <text
+         y="287.06"
+         x="-3032.5"
+         id="text447"
+         style="opacity:0.8">
+        <tspan
+           y="287.06"
+           x="-3032.5"
+           id="tspan449" />
+      </text>
+    </g>
+    <text
+       font-size="14"
+       y="1159.42"
+       x="-664.27002"
+       transform="matrix(0.90475,0,0,0.90475,-716.75,-669.05)"
+       id="text451"
+       style="font-size:14px;opacity:0.8">
+      <tspan
+         y="1159.42"
+         x="-664.27002"
+         id="tspan453" />
+    </text>
+  </g>
+  <g
+     font-size="12.666"
+     id="g455"
+     style="font-size:12.66600037px"
+     transform="matrix(0.723072,0,0,0.723072,6.6481808,6.637664)">
+    <text
+       y="-361.23001"
+       x="435.89999"
+       id="text457"
+       style="font-family:'Droid Sans'">
+      <tspan
+         y="-361.23001"
+         x="435.89999"
+         id="tspan459" />
+      <tspan
+         y="-345.39001"
+         x="435.89999"
+         id="tspan461" />
+    </text>
+    <g
+       id="g463"
+       style="font-family:'Bitstream Vera Sans'">
+      <text
+         y="-843.27002"
+         x="901.09003"
+         id="text465"
+         style="opacity:0.8">
+        <tspan
+           y="-843.27002"
+           x="901.09003"
+           id="tspan467" />
+      </text>
+      <text
+         y="-97.720001"
+         x="-922.59998"
+         id="text469"
+         style="opacity:0.8">
+        <tspan
+           y="-97.720001"
+           x="-922.59998"
+           id="tspan471" />
+      </text>
+      <text
+         y="-1128.27"
+         x="1628.17"
+         id="text473"
+         style="opacity:0.8">
+        <tspan
+           y="-1128.27"
+           x="1628.17"
+           id="tspan475" />
+      </text>
+      <text
+         y="-1169.01"
+         x="1652.13"
+         id="text477"
+         style="opacity:0.8">
+        <tspan
+           y="-1169.01"
+           x="1652.13"
+           id="tspan479" />
+      </text>
+      <text
+         y="-1176.22"
+         x="160.67"
+         id="text481"
+         style="opacity:0.8">
+        <tspan
+           y="-1176.22"
+           x="160.67"
+           id="tspan483" />
+      </text>
+      <text
+         y="-1449.45"
+         x="1621.21"
+         id="text485"
+         style="opacity:0.8">
+        <tspan
+           y="-1449.45"
+           x="1621.21"
+           id="tspan487" />
+      </text>
+    </g>
+  </g>
+  <g
+     id="g5144"
+     style="fill:#0066ff">
+    <path
+       d="M 47.814075,13.809421 C 45.57096,-2.5464785 24.413384,-3.5835879 10.776758,8.8788665 l 0,1.3756695 c 13.619813,-10.51680264 32.944788,-10.45037622 34.704534,4.617708 0.592653,4.990553 -1.273574,10.182528 -4.620733,13.169575 l 0,3.908445 c 4.028079,-2.211357 8.145828,-9.368269 6.953516,-18.140843 M 23.013714,42.447782 C 13.602719,43.750597 3.7966212,41.699949 2.4235714,30.653877 1.7412498,25.215481 3.4015191,19.442811 5.5913934,15.86007 l 0,-1.917796 C 1.6431748,19.140678 -0.50046417,25.714751 0.7366817,33.478072 2.3156889,43.439893 10.731924,49.07971 23.579747,47.202628 28.667036,46.467652 35.324926,44.009874 39.944258,40.193569 l 0,-5.419111 c -4.19901,3.762736 -11.142719,6.869778 -16.92494,7.671181 z"
+       id="path493"
+       inkscape:connector-curvature="0"
+       style="fill:#0066ff" />
+    <g
+       transform="matrix(1.5711612,0,0,2.4297072,-12.507644,-36.676804)"
+       id="g495"
+       style="fill:#0066ff">
+      <path
+         d="m 34.07,19.677 -1.657,0 0,7.01 c 0,0.823 0.416,1.538 1.657,1.652"
+         id="path497"
+         inkscape:connector-curvature="0"
+         style="fill:#0066ff" />
+      <path
+         d="m 14.323,22.24 -1.658,0 0,4.576 c 0,0.823 0.416,1.538 1.658,1.652"
+         id="path499"
+         inkscape:connector-curvature="0"
+         style="fill:#0066ff" />
+      <path
+         d="m 12.665,19.89 1.658,0 0,1.49 -1.658,0 z"
+         id="path501"
+         inkscape:connector-curvature="0"
+         style="fill:#0066ff" />
+      <path
+         d="m 24.25,28.391 c -1.344,0 -1.91,-0.886 -1.91,-1.76 l 0,-6.077 1.639,0 0,1.683 1.241,0 0,1.26 -1.241,0 0,3.04 c 0,0.358 0.181,0.554 0.572,0.554 l 0.669,0 0,1.3 -0.97,0"
+         id="path503"
+         inkscape:connector-curvature="0"
+         style="fill:#0066ff" />
+      <path
+         d="m 28.613,23.421 c -0.56,0 -0.994,0.275 -1.175,0.647 -0.108,0.224 -0.145,0.395 -0.163,0.67 l 2.537,0 c -0.036,-0.673 -0.356,-1.317 -1.2,-1.317 M 27.274,25.8 c 0,0.798 0.53,1.385 1.458,1.385 0.729,0 1.091,-0.193 1.513,-0.587 l 1.013,0.922 c -0.651,0.607 -1.332,0.976 -2.537,0.976 -1.573,0 -3.08,-0.815 -3.08,-3.188 0,-2.029 1.314,-3.176 3.044,-3.176 1.754,0 2.76,1.343 2.76,3.105 l 0,0.562 -4.17,0"
+         id="path505"
+         inkscape:connector-curvature="0"
+         style="fill:#0066ff" />
+      <path
+         d="m 18.789,23.497 c 0.482,0 0.681,0.224 0.681,0.59 l 0,4.311 1.645,0 0,-4.317 c 0,-0.877 -0.494,-1.845 -1.935,-1.845 l -3.393,0 0,6.162 1.639,0 0,-4.902"
+         id="path507"
+         inkscape:connector-curvature="0"
+         style="fill:#0066ff" />
+    </g>
+    <g
+       style="color:#000000;fill:#0066ff;fill-opacity:1"
+       id="g525"
+       transform="matrix(0.26440935,0,0,0.2635959,165.32334,79.027657)">
+      <circle
+         r="2.5"
+         id="ellipse527"
+         cx="-462.60999"
+         cy="-130.50999"
+         style="fill:#0066ff" />
+      <circle
+         r="3"
+         id="ellipse529"
+         cx="-458.10999"
+         cy="-123.01"
+         style="fill:#0066ff" />
+      <circle
+         r="1.5"
+         id="ellipse531"
+         cx="-460.60999"
+         cy="-138.50999"
+         style="fill:#0066ff" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path533"
+         d="m -452.11,-140.01 -2.844,2.844 4.375,4.375 -4.531,5.156 3,2.625 7,-8 -7,-7"
+         style="fill:#0066ff" />
+    </g>
+  </g>
+</svg>
