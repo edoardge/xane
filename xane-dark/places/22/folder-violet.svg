@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 64 64"
-   id="svg13000"
    version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 59 59"
+   style="enable-background:new 0 0 59 59;"
+   xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-violet.svg">
-  <metadata
-     id="metadata13026">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
+   sodipodi:docname="folder-violet.svg"><metadata
+     id="metadata55"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs53" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -36,68 +32,70 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="694"
-     id="namedview13024"
+     id="namedview51"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="-12.788934"
-     inkscape:cy="32"
+     inkscape:zoom="4"
+     inkscape:cx="1.2171946"
+     inkscape:cy="29.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13000" />
-  <defs
-     id="defs13002">
-    <linearGradient
-       xlink:href="#1"
-       id="3"
-       x1="-661.86"
-       y1="588.27"
-       x2="-659.32"
-       y2="416.19"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.12614,0,0,0.12614,115.04,-27.788)" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="354.29"
-       x2="-704.05"
-       y1="647.77"
-       x1="-701.19"
-       id="2"
-       gradientTransform="matrix(0.0159113,0,0,0.0159113,129.55115,-31.293178)">
-      <stop
-         stop-color="#93cfff"
-         id="stop13006" />
-      <stop
-         offset="1"
-         stop-color="#cde8fe"
-         id="stop13008" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#1"
-       id="0"
-       x1="59.12"
-       y1="-13.295"
-       x2="59.15"
-       y2="-37.783"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52660675,0,0,0.52570737,-19.440377,28.688662)" />
-    <linearGradient
-       id="1">
-      <stop
-         stop-color="#289bf7"
-         id="stop13012" />
-      <stop
-         offset="1"
-         stop-color="#71b9f1"
-         id="stop13014" />
-    </linearGradient>
-  </defs>
-  <rect
-     style="fill:#d35fbc;stroke:none;stroke-width:0.29996091"
-     id="rect13020"
-     rx="1.2147282"
-     y="10.716585"
-     x="2.740077"
-     height="43.736176"
-     width="58.51004" />
-</svg>
+     inkscape:current-layer="Capa_1" /><polygon
+     style="fill:#aa00d4"
+     points="0.5,15 0.5,59 58.5,59 58.5,22 30.5,22 25.5,15 20.5,8 0.5,8 "
+     id="polygon3"
+     transform="matrix(1.012931,0,0,1,-0.00646552,0)" /><polygon
+     style="fill:#e580ff"
+     points="25.5,15 30.5,22 58.5,22 58.5,15 "
+     id="polygon5"
+     transform="matrix(1.012931,0,0,1,-0.00646552,0)" /><polygon
+     style="fill:#cc00ff"
+     points="3.5,4 3.5,8 20.5,8 25.5,15 58.5,15 58.5,11 28.5,11 23.5,4 "
+     id="polygon7"
+     transform="matrix(1.012931,0,0,1,-0.00646552,0)" /><polygon
+     style="fill:#dd55ff"
+     points="6.5,0 6.5,4 23.5,4 28.5,11 58.5,11 58.5,7 31.5,7 26.5,0 "
+     id="polygon9"
+     transform="matrix(1.012931,0,0,1,-0.00646552,0)" /><rect
+     x="27.849136"
+     y="36"
+     style="fill:#e580ff"
+     width="26.336206"
+     height="18"
+     id="rect11" /><g
+     id="g13"
+     style="fill:#440055"
+     transform="matrix(1.012931,0,0,1,-0.00646552,0)"><rect
+       x="32.5"
+       y="40"
+       style="fill:#440055"
+       width="10"
+       height="2"
+       id="rect15" /><rect
+       x="32.5"
+       y="44"
+       style="fill:#440055"
+       width="16"
+       height="2"
+       id="rect17" /><rect
+       x="32.5"
+       y="48"
+       style="fill:#440055"
+       width="16"
+       height="2"
+       id="rect19" /></g><g
+     id="g21" /><g
+     id="g23" /><g
+     id="g25" /><g
+     id="g27" /><g
+     id="g29" /><g
+     id="g31" /><g
+     id="g33" /><g
+     id="g35" /><g
+     id="g37" /><g
+     id="g39" /><g
+     id="g41" /><g
+     id="g43" /><g
+     id="g45" /><g
+     id="g47" /><g
+     id="g49" /></svg>
