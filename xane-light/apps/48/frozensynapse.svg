@@ -38,7 +38,7 @@
      id="namedview27"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-9.1525424"
+     inkscape:cx="-42.305085"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -89,10 +89,10 @@
      id="g23"
      transform="matrix(1.9420954,0,0,2.7685812,-22.612372,-52.035587)"
      clip-path="url(#1)"
-     style="fill:#37abc8">
+     style="fill:#ff0000">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#37abc8"
+       style="fill:#ff0000"
        id="path25"
        transform="matrix(0.70588,0,0,0.70588,92.73,18.677)"
        d="m -107.28,0.457 -7.082,7.084 7.082,7.082 7.084,-7.082 -7.084,-7.084 m 19.834,0 -7.084,7.084 7.084,7.082 7.084,-7.082 -7.084,-7.084 m -9.916,9.916 -7.084,7.084 7.084,7.084 7.082,-7.084 -7.082,-7.084" />

@@ -38,7 +38,7 @@
      id="namedview25"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-13.521871"
+     inkscape:cx="-13.835008"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -62,68 +62,54 @@
          id="stop9" />
     </linearGradient>
   </defs>
-  <g
-     style="fill:#80b3ff"
-     id="g15"
-     transform="matrix(1.2051688,0,0,1.8579625,32.537216,-61.413074)">
-    <circle
-       style="fill:#80b3ff;fill-opacity:0.847"
-       id="circle17"
-       cx="-20.978001"
-       cy="39.976002"
-       r="5.7639999" />
-    <g
-       style="fill:#80b3ff;fill-opacity:0.85100002;fill-rule:evenodd"
-       id="g19">
-      <rect
-         id="rect21"
-         rx="1.267"
-         width="10.484"
-         height="10.484"
-         x="-12.45"
-         y="34.462002"
-         style="fill:#80b3ff" />
-      <rect
-         id="rect23"
-         rx="1.267"
-         width="10.484"
-         height="10.484"
-         x="-6.9299998"
-         y="34.507"
-         transform="matrix(0.97656,-0.21522,0.21522,0.97656,0,0)"
-         style="fill:#80b3ff" />
-    </g>
-  </g>
-  <g
-     style="fill:#80b3ff"
-     id="g15-8"
-     transform="matrix(-1.2051688,0,0,-1.8579625,15.66576,109.71803)">
-    <circle
-       style="fill:#80b3ff;fill-opacity:0.847"
-       id="circle17-6"
-       cx="-20.978001"
-       cy="39.976002"
-       r="5.7639999" />
-    <g
-       style="fill:#80b3ff;fill-opacity:0.85100002;fill-rule:evenodd"
-       id="g19-5">
-      <rect
-         id="rect21-1"
-         rx="1.267"
-         width="10.484"
-         height="10.484"
-         x="-12.45"
-         y="34.462002"
-         style="fill:#80b3ff" />
-      <rect
-         id="rect23-1"
-         rx="1.267"
-         width="10.484"
-         height="10.484"
-         x="-6.9299998"
-         y="34.507"
-         transform="matrix(0.97656,-0.21522,0.21522,0.97656,0,0)"
-         style="fill:#80b3ff" />
-    </g>
-  </g>
+  <ellipse
+     cy="12.860838"
+     cx="7.2551842"
+     id="circle17"
+     style="fill:#ff0000;fill-opacity:0.847"
+     rx="6.9465928"
+     ry="10.709295" />
+  <rect
+     id="rect21"
+     rx="1.5269488"
+     width="12.63499"
+     height="19.47888"
+     x="17.532866"
+     y="2.6160331"
+     style="fill:#55d400;fill-opacity:0.85100002;fill-rule:evenodd" />
+  <rect
+     id="rect23"
+     rx="1.5748745"
+     width="13.031559"
+     height="19.215679"
+     x="33.000854"
+     y="14.732562"
+     transform="matrix(0.94684186,-0.32169938,0.14151478,0.98993614,0,0)"
+     style="fill:#2a7fff;fill-opacity:0.85100002;fill-rule:evenodd" />
+  <ellipse
+     cy="-35.444118"
+     cx="-40.947792"
+     id="circle17-6"
+     style="fill:#ff2ad4;fill-opacity:0.847"
+     transform="scale(-1,-1)"
+     rx="6.9465928"
+     ry="10.709295" />
+  <rect
+     id="rect21-1"
+     rx="1.5269488"
+     width="12.63499"
+     height="19.47888"
+     x="-30.670111"
+     y="-45.688923"
+     style="fill:#ff6600;fill-opacity:0.85100002;fill-rule:evenodd"
+     transform="scale(-1,-1)" />
+  <rect
+     id="rect23-1"
+     rx="1.5748745"
+     width="13.031559"
+     height="19.215679"
+     x="-8.5950079"
+     y="-47.580872"
+     transform="matrix(-0.94684186,0.32169938,-0.14151478,-0.98993614,0,0)"
+     style="fill:#ffcc00;fill-opacity:0.85100002;fill-rule:evenodd" />
 </svg>

@@ -39,7 +39,7 @@
      id="namedview22"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="0.081040567"
+     inkscape:cx="-1.5807355"
      inkscape:cy="23.880857"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -85,26 +85,22 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.09322,0,0,1.09322,-363.8,-571.35)" />
   </defs>
-  <g
-     id="g4141"
-     style="fill:#80b3ff">
-    <circle
-       r="6.55932"
-       cy="23.995766"
-       cx="6.5610704"
-       id="circle16"
-       style="fill:#80b3ff;fill-rule:evenodd" />
-    <circle
-       r="6.55932"
-       cy="23.995766"
-       cx="24.085386"
-       id="circle18"
-       style="fill:#80b3ff;fill-rule:evenodd" />
-    <circle
-       r="6.55932"
-       cy="23.995766"
-       cx="41.445724"
-       id="circle20"
-       style="fill:#80b3ff;fill-rule:evenodd" />
-  </g>
+  <circle
+     style="fill:#ffcc00;fill-rule:evenodd"
+     id="circle16"
+     cx="6.5610704"
+     cy="23.995766"
+     r="6.55932" />
+  <circle
+     style="fill:#55d400;fill-rule:evenodd"
+     id="circle18"
+     cx="24.085386"
+     cy="23.995766"
+     r="6.55932" />
+  <circle
+     style="fill:#ff0000;fill-rule:evenodd"
+     id="circle20"
+     cx="41.445724"
+     cy="23.995766"
+     r="6.55932" />
 </svg>
