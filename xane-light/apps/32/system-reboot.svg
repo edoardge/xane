@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497475"
-     inkscape:cx="-44.714249"
-     inkscape:cy="24.000814"
+     inkscape:zoom="3.5"
+     inkscape:cx="-4.7142857"
+     inkscape:cy="8.4957728"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -53,19 +53,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       transform="matrix(1.6758403,0,0,1.9885065,-16.212207,-23.506032)"
-       style="fill:#80b3ff;fill-opacity:1"
-       id="g6">
+       id="g4135"
+       transform="matrix(0,-1.2429832,1.2706491,0,-8.0129737,54.069631)"
+       style="fill:none;stroke:#00c8ff;stroke-opacity:1">
+      <path
+         sodipodi:nodetypes="csssc"
+         inkscape:connector-curvature="0"
+         id="path2995"
+         d="m 13.200289,13.886581 c 2.89543,-2.895431 6.89543,-4.686292 11.313708,-4.686292 8.836556,0 16,7.163444 16,16 0,8.836556 -7.163444,16 -16,16 -4.418278,0 -8.418278,-1.790861 -11.313708,-4.686291"
+         style="fill:none;stroke:#00c8ff;stroke-width:5.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
-         d="M 35.367188,19.214844 C 33.398438,14.824219 28.992188,12 24.027344,12 c -5.078125,0 -9.726563,3.089844 -11.554688,7.675781 l 3.851563,1.445313 c 1.21875,-3.066406 4.316406,-5.117188 7.703125,-5.117188 3.265625,0 6.15625,1.832032 7.496094,4.695313 l -2.808594,1.089843 7.183594,4.019532 L 38,18.199219 Z"
-         id="path8"
-         style="fill:#80b3ff;fill-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 24.027344,32.003906 c -3.242188,0 -6.191406,-1.894531 -7.511719,-4.738281 L 19.28125,26.230469 12.175781,22.296875 10,29.707031 12.652344,28.710938 C 14.582031,33.089844 19.09375,36 24.027344,36 c 5.097656,0 9.609375,-2.964844 11.5,-7.554688 l -3.832032,-1.480468 c -1.257812,3.0625 -4.269531,5.039062 -7.667968,5.039062 z"
-         id="path10"
-         style="fill:#80b3ff;fill-opacity:1" />
+         id="path3767"
+         d="m 8.006458,25.142857 15.70137,0"
+         style="fill:none;stroke:#00c8ff;stroke-width:5.56785631;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

@@ -38,7 +38,7 @@
      id="namedview120"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-10.336911"
+     inkscape:cx="-10.314384"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -321,48 +321,48 @@
     </linearGradient>
   </defs>
   <g
-     style="fill:#ffdd55;fill-opacity:0.85199998"
+     style="fill:#ffcc00;fill-opacity:0.85199998"
      id="g114"
      transform="matrix(0.41925557,0,0,0.27938245,-68.223948,-35.271052)">
     <path
        inkscape:connector-curvature="0"
        id="path116"
        d="m 164.89,143.09 0,90.35 c 0,8.65 7.01,15.665 15.665,15.665 8.65,0 15.665,-7.01 15.665,-15.665 l 0,-90.35 c 0,-8.651 -7.01,-15.665 -15.665,-15.665 -8.651,0 -15.665,7.01 -15.665,15.665"
-       style="fill:#ffdd55" />
+       style="fill:#ffcc00" />
     <path
        inkscape:connector-curvature="0"
        id="path118"
        d="m 180.56,265.36 c -9.1,0 -16.5,7.399 -16.5,16.5 0,9.1 7.403,16.5 16.5,16.5 9.1,0 16.5,-7.402 16.5,-16.5 0,-9.1 -7.404,-16.5 -16.5,-16.5"
-       style="fill:#ffdd55" />
+       style="fill:#ffcc00" />
   </g>
   <g
-     style="fill:#ffdd55;fill-opacity:0.85199998"
+     style="fill:#aa8800;fill-opacity:0.85199998"
      id="g114-3"
      transform="matrix(0.41925557,0,0,0.27938245,-51.497396,-35.275039)">
     <path
        inkscape:connector-curvature="0"
        id="path116-0"
        d="m 164.89,143.09 0,90.35 c 0,8.65 7.01,15.665 15.665,15.665 8.65,0 15.665,-7.01 15.665,-15.665 l 0,-90.35 c 0,-8.651 -7.01,-15.665 -15.665,-15.665 -8.651,0 -15.665,7.01 -15.665,15.665"
-       style="fill:#ffdd55" />
+       style="fill:#aa8800" />
     <path
        inkscape:connector-curvature="0"
        id="path118-6"
        d="m 180.56,265.36 c -9.1,0 -16.5,7.399 -16.5,16.5 0,9.1 7.403,16.5 16.5,16.5 9.1,0 16.5,-7.402 16.5,-16.5 0,-9.1 -7.404,-16.5 -16.5,-16.5"
-       style="fill:#ffdd55" />
+       style="fill:#aa8800" />
   </g>
   <g
-     style="fill:#ffdd55;fill-opacity:0.85199998"
+     style="fill:#554400;fill-opacity:0.85199998"
      id="g114-1"
      transform="matrix(0.41925557,0,0,0.27938245,-35.022819,-35.478428)">
     <path
        inkscape:connector-curvature="0"
        id="path116-6"
        d="m 164.89,143.09 0,90.35 c 0,8.65 7.01,15.665 15.665,15.665 8.65,0 15.665,-7.01 15.665,-15.665 l 0,-90.35 c 0,-8.651 -7.01,-15.665 -15.665,-15.665 -8.651,0 -15.665,7.01 -15.665,15.665"
-       style="fill:#ffdd55" />
+       style="fill:#554400" />
     <path
        inkscape:connector-curvature="0"
        id="path118-7"
        d="m 180.56,265.36 c -9.1,0 -16.5,7.399 -16.5,16.5 0,9.1 7.403,16.5 16.5,16.5 9.1,0 16.5,-7.402 16.5,-16.5 0,-9.1 -7.404,-16.5 -16.5,-16.5"
-       style="fill:#ffdd55" />
+       style="fill:#554400" />
   </g>
 </svg>

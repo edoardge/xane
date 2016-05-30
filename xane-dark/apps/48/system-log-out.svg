@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5"
-     inkscape:cx="-11.946041"
+     inkscape:cx="-58.51747"
      inkscape:cy="8.4957728"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -54,18 +54,19 @@
      inkscape:groupmode="layer">
     <g
        id="g4135"
-       transform="matrix(1.2448282,0,0,1.2456414,-5.9060989,-7.333091)">
+       transform="matrix(1.2429832,0,0,1.2706491,-6.1473047,-8.1061492)"
+       style="fill:none;stroke:#ffc800;stroke-opacity:1">
       <path
          sodipodi:nodetypes="csssc"
          inkscape:connector-curvature="0"
          id="path2995"
          d="m 13.200289,13.886581 c 2.89543,-2.895431 6.89543,-4.686292 11.313708,-4.686292 8.836556,0 16,7.163444 16,16 0,8.836556 -7.163444,16 -16,16 -4.418278,0 -8.418278,-1.790861 -11.313708,-4.686291"
-         style="fill:none;stroke:#dc9e1b;stroke-width:5.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ffc800;stroke-width:5.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3767"
          d="m 8.006458,25.142857 15.70137,0"
-         style="fill:none;stroke:#dc9e1b;stroke-width:5.56785631;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ffc800;stroke-width:5.56785631;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

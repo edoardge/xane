@@ -38,7 +38,7 @@
      id="namedview31"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-35.01066"
+     inkscape:cx="-14.421779"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -76,33 +76,33 @@
     </linearGradient>
   </defs>
   <g
-     style="fill:#0066ff;fill-opacity:0.85500004;fill-rule:evenodd"
+     style="fill:#ff6600;fill-opacity:0.85500004;fill-rule:evenodd"
      id="g25"
      transform="matrix(2.3208653,0,0,1.0854611,-1255.4476,-537.10124)">
     <path
        inkscape:connector-curvature="0"
        id="path27"
        d="m 545.97707,495.17607 a 4.875,4.875 0 0 1 4.875,4.875 4.875,4.875 0 0 1 -4.875,4.875 4.875,4.875 0 0 1 -4.875,-4.875 4.875,4.875 0 0 1 4.875,-4.875"
-       style="fill:#0066ff" />
+       style="fill:#ff6600" />
     <path
        inkscape:connector-curvature="0"
        id="path29"
        d="m 545.45,509.8 1.038,0 c 1.736,0 3.142,1.396 3.142,3.133 l 0,22.985 c 0,1.736 -1.406,3.133 -3.142,3.133 l -1.038,0 c -1.736,0 -3.133,-1.396 -3.133,-3.133 l 0,-22.985 c 0,-1.736 1.396,-3.133 3.133,-3.133"
-       style="fill:#0066ff" />
+       style="fill:#ff6600" />
   </g>
   <g
-     style="fill:#0066ff;fill-opacity:0.85500004;fill-rule:evenodd"
+     style="fill:#00aa00;fill-opacity:0.85500004;fill-rule:evenodd"
      id="g25-6"
      transform="matrix(2.3208653,0,0,1.0854611,-1230.9358,-537.10324)">
     <path
        inkscape:connector-curvature="0"
        id="path27-8"
        d="m 545.97707,495.17607 a 4.875,4.875 0 0 1 4.875,4.875 4.875,4.875 0 0 1 -4.875,4.875 4.875,4.875 0 0 1 -4.875,-4.875 4.875,4.875 0 0 1 4.875,-4.875"
-       style="fill:#0066ff" />
+       style="fill:#00aa00" />
     <path
        inkscape:connector-curvature="0"
        id="path29-2"
        d="m 545.45,509.8 1.038,0 c 1.736,0 3.142,1.396 3.142,3.133 l 0,22.985 c 0,1.736 -1.406,3.133 -3.142,3.133 l -1.038,0 c -1.736,0 -3.133,-1.396 -3.133,-3.133 l 0,-22.985 c 0,-1.736 1.396,-3.133 3.133,-3.133"
-       style="fill:#0066ff" />
+       style="fill:#00aa00" />
   </g>
 </svg>

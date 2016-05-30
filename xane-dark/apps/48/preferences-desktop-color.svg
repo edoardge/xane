@@ -38,7 +38,7 @@
      id="namedview50"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-42.305085"
+     inkscape:cx="-9.1525424"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -142,31 +142,28 @@
          id="stop34" />
     </linearGradient>
   </defs>
-  <g
-     id="g4154">
-    <circle
-       r="12.948"
-       cy="13.309985"
-       cx="12.949989"
-       id="circle38"
-       style="fill:#ffdd55" />
-    <circle
-       r="12.948"
-       cy="13.309985"
-       cx="35.049995"
-       id="circle40"
-       style="fill:#8dd35f" />
-    <circle
-       r="12.948"
-       cy="34.679981"
-       cx="12.949989"
-       id="circle42"
-       style="fill:#ff5555" />
-    <circle
-       r="12.948"
-       cy="34.679981"
-       cx="35.049995"
-       id="circle44"
-       style="fill:#5f8dd3" />
-  </g>
+  <circle
+     style="fill:#ffdd55"
+     id="circle38"
+     cx="12.949989"
+     cy="13.309985"
+     r="12.948" />
+  <circle
+     style="fill:#8dd35f"
+     id="circle40"
+     cx="35.049995"
+     cy="13.309985"
+     r="12.948" />
+  <circle
+     style="fill:#ff5555"
+     id="circle42"
+     cx="12.949989"
+     cy="34.679981"
+     r="12.948" />
+  <circle
+     style="fill:#5f8dd3"
+     id="circle44"
+     cx="35.049995"
+     cy="34.679981"
+     r="12.948" />
 </svg>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,24 +9,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   id="svg2"
    version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 56 56"
+   style="enable-background:new 0 0 56 56;"
+   xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="trojita.svg">
-  <metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
+   sodipodi:docname="trojita.svg"><metadata
+     id="metadata57"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs55" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -35,62 +32,69 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="694"
-     id="namedview24"
+     id="namedview53"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-11.59322"
-     inkscape:cy="24"
+     inkscape:zoom="4.2142857"
+     inkscape:cx="-49.355932"
+     inkscape:cy="28"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <linearGradient
-       gradientTransform="matrix(0.09395906,-0.01074989,-0.00878991,-0.07711923,8.5461992,50.63597)"
-       id="0"
-       gradientUnits="userSpaceOnUse"
-       x1="258.66"
-       y1="1.708"
-       x2="257.5"
-       y2="564.01">
-      <stop
-         stop-color="#e9e9e9"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#f9f9f9"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.0073856,0,0,0.87926849,-446.26666,-432.28712)"
-       gradientUnits="userSpaceOnUse"
-       y2="502.38"
-       x2="466.49"
-       y1="542.68"
-       x1="466.38"
-       id="1">
-      <stop
-         stop-color="#197df1"
-         id="stop12" />
-      <stop
-         offset="1"
-         stop-color="#20bcfa"
-         id="stop14" />
-    </linearGradient>
-  </defs>
-  <g
-     id="g3"
-     transform="matrix(0.14185412,0,0,0.09836472,-10.41466,0.13612863)">
-    <path
-       d="m 409.397,91.038 0,333.521 -30.322,0 0,-44.095 -75.821,41.285 L 303.077,88.73 C 297.065,49.634 273.343,17.739 240.86,0 l 77.562,0 c 46.195,6.576 83.69,43.74 90.975,91.038 z m -121.301,0 0,394.174 -30.327,0 0,-64.914 0.061,0 -151.692,-21.678 0,56.267 -30.323,0 0,-60.593 0,-303.256 C 83.869,38.62 128.943,0 181.954,0 234.965,0 280.04,38.62 288.096,91.038 Z m -45.491,-0.06 -121.302,0 0,60.651 121.302,0 0,-60.651 z"
-       id="path5"
-       inkscape:connector-curvature="0"
-       style="fill:#006df0" />
-  </g>
-  <path
-     style="fill:#002255"
-     inkscape:connector-curvature="0"
-     id="path22"
-     d="m 34.383048,24.441511 q 4.952437,-0.648873 8.787936,2.267298 3.84186,2.916171 4.479202,7.673739 0.362559,2.675661 -0.578824,4.584701 -0.90958,1.905282 -3.114196,2.193392 -2.264407,0.296877 -3.675209,-1.727405 -1.185634,2.365004 -3.933454,2.724515 -2.475583,0.324436 -4.396513,-1.148681 -1.924746,-1.503181 -2.282217,-4.14878 -0.353654,-2.616787 1.104216,-4.562154 1.457872,-1.946619 3.812601,-2.254771 2.32547,-0.304394 4.102648,1.247641 l 0.120855,-0.01628 -0.180643,-1.337831 2.174085,-0.285604 1.049514,7.760171 q 0.104316,0.772885 0.611899,1.341589 0.536843,0.564945 1.442606,0.445943 2.143554,-0.280593 1.568548,-4.533342 -0.530483,-3.924555 -3.67521,-6.263254 -3.143456,-2.341205 -7.129067,-1.818849 -3.985612,0.522355 -6.398859,3.592602 -2.411976,3.070247 -1.881494,6.994802 0.530483,3.924554 3.67521,6.263254 3.143455,2.341204 7.129067,1.818848 2.143554,-0.280594 3.722279,-1.335325 l 1.119481,1.910291 q -1.984538,1.228852 -4.551714,1.565815 -5.012228,0.657641 -8.874442,-2.224708 -3.86603,-2.912413 -4.513549,-7.698792 -0.643702,-4.757567 2.314021,-8.564372 2.988254,-3.810564 7.969951,-4.464448 m -0.866327,14.728668 q 1.227614,0.898149 2.737643,0.700231 1.510029,-0.197918 2.425969,-1.376663 0.946472,-1.183755 0.712399,-2.907403 -0.232803,-1.724899 -1.460417,-2.62305 -1.197082,-0.901909 -2.707112,-0.703989 -1.510028,0.197918 -2.456499,1.381673 -0.91594,1.178744 -0.683139,2.903645 0.232801,1.7249 1.431156,2.626809" />
-</svg>
+     inkscape:current-layer="Capa_1" /><g
+     id="g3"><path
+       style="fill:#2A55C5;"
+       d="M47.364,14H10.5v0.025C10.334,14.016,10.169,14,10,14c-4.694,0-8.5,3.806-8.5,8.5V44h17h12h12h12   V21.136C54.5,17.195,51.305,14,47.364,14z"
+       id="path5" /><rect
+       x="24.5"
+       y="44"
+       style="fill:#BE6E41;"
+       width="8"
+       height="12"
+       id="rect7" /><rect
+       x="29.5"
+       y="46"
+       style="fill:#6C4127;"
+       width="3"
+       height="2"
+       id="rect9" /><rect
+       x="29.5"
+       y="49"
+       style="fill:#6C4127;"
+       width="3"
+       height="2"
+       id="rect11" /><rect
+       x="29.5"
+       y="52"
+       style="fill:#6C4127;"
+       width="3"
+       height="2"
+       id="rect13" /><path
+       style="fill:#167CD8;"
+       d="M18.5,44h-17V22.5c0-4.694,3.806-8.5,8.5-8.5h0c4.694,0,8.5,3.806,8.5,8.5V44z"
+       id="path15" /><path
+       style="fill:#38454F;"
+       d="M30.5,30L30.5,30c-2.209,0-4-1.791-4-4v0c0-2.209,1.791-4,4-4h0c2.209,0,4,1.791,4,4v0   C34.5,28.209,32.709,30,30.5,30z"
+       id="path17" /><polygon
+       style="fill:#DD352E;"
+       points="42.5,8 30.5,8 30.5,0 42.5,0 39.5,4  "
+       id="polygon19" /><rect
+       x="29.5"
+       style="fill:#38454F;"
+       width="2"
+       height="26"
+       id="rect21" /></g><g
+     id="g23" /><g
+     id="g25" /><g
+     id="g27" /><g
+     id="g29" /><g
+     id="g31" /><g
+     id="g33" /><g
+     id="g35" /><g
+     id="g37" /><g
+     id="g39" /><g
+     id="g41" /><g
+     id="g43" /><g
+     id="g45" /><g
+     id="g47" /><g
+     id="g49" /><g
+     id="g51" /></svg>

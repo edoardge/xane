@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,24 +9,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   id="svg2"
    version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 60 60"
+   style="enable-background:new 0 0 60 60;"
+   xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="timeshift.svg">
-  <metadata
-     id="metadata21">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
+   sodipodi:docname="timeshift.svg"><metadata
+     id="metadata43"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs41" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -35,45 +32,38 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="694"
-     id="namedview19"
+     id="namedview39"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-11.59322"
-     inkscape:cy="24"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="-11.440678"
+     inkscape:cy="30"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <linearGradient
-       id="0"
-       y1="48.61"
-       x2="0"
-       y2="-1.22"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#c52828"
-         id="stop7" />
-      <stop
-         stop-color="#ff5454"
-         offset="1"
-         id="stop9" />
-    </linearGradient>
-  </defs>
-  <g
-     transform="matrix(0.61554804,0,0,0.61819342,53.899071,7.7847923)"
-     id="g13"
-     style="fill:#c83737">
-    <path
-       d="m -48.44,-12.394 c -21.281,0 -38.605,17.255 -38.605,38.595 l 5.131,0 c 0,-18.484 14.89,-33.444 33.474,-33.444 18.574,0 33.536,14.963 33.536,33.444 l 0,0.353 c -0.201,18.352 -15.09,33.17 -33.536,33.17 l 0,5.141 c 21.281,0 38.662,-17.317 38.662,-38.662 0,-21.35 -17.386,-38.577 -38.662,-38.577"
-       id="path15"
-       style="fill:#c83737"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m -85.59,15.939 c -0.907,3.279 -1.45,6.741 -1.45,10.303 0,4.448 0.786,8.745 2.174,12.719 l 0.402,0.162 15.454,-23.18"
-       id="path17"
-       style="fill:#c83737"
-       inkscape:connector-curvature="0" />
-  </g>
-</svg>
+     inkscape:current-layer="Capa_1" /><circle
+     style="fill:#ffaaaa"
+     cx="30"
+     cy="29"
+     r="29"
+     id="circle3" /><path
+     style="fill:#ff2a2a"
+     d="M30,60C13.458,60,0,46.542,0,30c0-7.993,3.107-15.514,8.749-21.176  c0.779-0.785,2.047-0.785,2.828-0.006c0.783,0.78,0.785,2.046,0.006,2.828C6.693,16.555,4,23.072,4,30c0,14.337,11.663,26,26,26  s26-11.663,26-26C56,16.337,45.405,5.101,32,4.076v10.757c0,1.104-0.896,2-2,2s-2-0.896-2-2V2c0-1.104,0.896-2,2-2  c16.542,0,30,13.458,30,30S46.542,60,30,60z"
+     id="path5" /><path
+     style="fill:#ff2a2a"
+     d="M20,20.121L20,20.121l12.944,9.363c1.274,0.926,1.419,2.772,0.305,3.886l0,0  c-1.114,1.114-2.959,0.969-3.886-0.305L20,20.121z"
+     id="path7" /><g
+     id="g9" /><g
+     id="g11" /><g
+     id="g13" /><g
+     id="g15" /><g
+     id="g17" /><g
+     id="g19" /><g
+     id="g21" /><g
+     id="g23" /><g
+     id="g25" /><g
+     id="g27" /><g
+     id="g29" /><g
+     id="g31" /><g
+     id="g33" /><g
+     id="g35" /><g
+     id="g37" /></svg>
