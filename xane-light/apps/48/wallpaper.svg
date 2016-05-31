@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   id="svg2"
    version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 52 52"
+   style="enable-background:new 0 0 52 52;"
+   xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="wallpaper.svg">
-  <metadata
-     id="metadata65">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
+   sodipodi:docname="wallpaper.svg"><metadata
+     id="metadata47"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs45" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -36,104 +32,50 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="694"
-     id="namedview63"
+     id="namedview43"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-11.59322"
-     inkscape:cy="24"
+     inkscape:zoom="4.5384615"
+     inkscape:cx="-9.9152542"
+     inkscape:cy="26"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <path
-       d="m69.63 12.145h-.052c-22.727-.292-46.47 4.077-46.709 4.122-2.424.451-4.946 2.974-5.397 5.397-.044.237-4.414 23.983-4.122 46.71-.292 22.777 4.078 46.523 4.122 46.761.451 2.423 2.974 4.945 5.398 5.398.237.044 23.982 4.413 46.709 4.121 22.779.292 46.524-4.077 46.761-4.121 2.423-.452 4.946-2.976 5.398-5.399.044-.236 4.413-23.981 4.121-46.709.292-22.777-4.077-46.523-4.121-46.761-.453-2.423-2.976-4.946-5.398-5.397-.238-.045-23.984-4.414-46.71-4.122"
-       id="3" />
-    <clipPath
-       id="clipPath7">
-      <use
-         xlink:href="#3"
-         id="use9" />
-    </clipPath>
-    <linearGradient
-       gradientTransform="matrix(1.03744.1329-.12755.99183-44.44-65.12)"
-       id="2"
-       x1="542.83"
-       y1="484.29"
-       x2="543.25"
-       y2="463.62"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#132e51"
-         id="stop12" />
-      <stop
-         offset="1"
-         stop-color="#2767b9"
-         id="stop14" />
-    </linearGradient>
-    <linearGradient
-       y2="534.53"
-       x2="497.84"
-       y1="516.8"
-       x1="480.12"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#1"
-       id="linearGradient16" />
-    <linearGradient
-       y2="527.53"
-       x2="494.84"
-       y1="509.8"
-       x1="477.12"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#1"
-       id="linearGradient18" />
-    <linearGradient
-       xlink:href="#1"
-       gradientUnits="userSpaceOnUse"
-       x1="479.57"
-       y1="516.45"
-       x2="494.57"
-       y2="531.45"
-       id="linearGradient20" />
-    <linearGradient
-       id="1">
-      <stop
-         stop-color="#2e5d89"
-         id="stop23" />
-      <stop
-         offset="1"
-         stop-color="#1b92f4"
-         id="stop25" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.05233 0 0 1.02761-21.18-14.703)"
-       gradientUnits="userSpaceOnUse"
-       y2="504.19"
-       x2="409.94"
-       y1="542.8"
-       x1="409.57"
-       id="0">
-      <stop
-         stop-color="#86d0fb"
-         id="stop28" />
-      <stop
-         offset="1"
-         stop-color="#2794f5"
-         id="stop30" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#1"
-       gradientUnits="userSpaceOnUse"
-       x1="399.12"
-       y1="510.3"
-       x2="416.84"
-       y2="528.03"
-       id="linearGradient32" />
-  </defs>
-  <path
-     inkscape:connector-curvature="0"
-     id="path3879"
-     d="m 42.14954,0.39490493 -2.254851,1.96252347 -2.537242,-1.1890582 -0.79155,3.4632767 -2.507291,1.2871844 1.039713,3.3362898 -1.304991,3.1688979 2.38749,1.650829 0.504881,3.555632 2.618536,-0.802327 2.083705,2.285763 1.62161,-2.886064 2.682717,-0.05772 L 45.559628,12.556774 47.591989,10.18443 45.765004,7.529255 46.192868,3.9563078 43.527266,3.5003098 42.14954,0.39490493 Z M 28.63755,14.825225 c -0.247422,-0.0025 -0.493639,0.144109 -0.658912,0.392505 l -7.868446,11.88481 c -0.459137,0.577677 -0.342498,0.614284 0.04279,1.200604 l 2.622815,3.994311 c 0.244519,0.347418 0.22275,0.9691 -0.04279,1.287185 -0.26555,0.318105 -0.723073,0.270533 -0.949861,-0.09813 l -3.59407,-5.471977 -3.576954,-5.408484 c -0.17416,-0.262729 -0.440792,-0.411253 -0.701701,-0.392505 -0.260894,0.01876 -0.51072,0.204407 -0.66319,0.490631 L 0.73216657,46.185196 c -0.18841138,0.350797 -0.21881376,0.843683 -0.0727373,1.229463 0.14606279,0.3858 0.46188243,0.646792 0.78299373,0.646478 l 41.661258,0 c 0.311322,0 0.615639,-0.243981 0.765878,-0.611846 0.15024,-0.367864 0.140286,-0.845242 -0.02567,-1.200602 L 29.3692,15.373576 C 29.213252,15.04234 28.928403,14.828864 28.63755,14.825225 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2a7fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.69999981;marker:none;enable-background:accumulate" />
-</svg>
+     inkscape:current-layer="Capa_1" /><rect
+     x="2"
+     y="1"
+     style="fill:#424A60;stroke:#E7ECED;stroke-width:2;stroke-miterlimit:10;"
+     width="48"
+     height="50"
+     id="rect3" /><circle
+     style="fill:#EFCE4A;"
+     cx="14"
+     cy="13.569"
+     r="4.569"
+     id="circle5" /><rect
+     x="2"
+     y="41"
+     style="fill:#E7ECED;"
+     width="48"
+     height="10"
+     id="rect7" /><polygon
+     style="fill:#1A9172;"
+     points="49,32.111 48,31 36,20 25.5,31.5 30.983,36.983 35,41 49,41 "
+     id="polygon9" /><polygon
+     style="fill:#25AE88;"
+     points="30.983,36.983 20.017,26.017 3,41 35,41 "
+     id="polygon11" /><g
+     id="g13" /><g
+     id="g15" /><g
+     id="g17" /><g
+     id="g19" /><g
+     id="g21" /><g
+     id="g23" /><g
+     id="g25" /><g
+     id="g27" /><g
+     id="g29" /><g
+     id="g31" /><g
+     id="g33" /><g
+     id="g35" /><g
+     id="g37" /><g
+     id="g39" /><g
+     id="g41" /></svg>
