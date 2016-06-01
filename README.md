@@ -7,17 +7,25 @@ icon pack for plasma desktop
 based on:
 
 antu - fabianalexisinostroza
+
 https://github.com/fabianalexisinostroza/Antu
 
 orachelo - madh93
+
 https://github.com/Madh93/oranchelo-icon-theme
 
 essential collection - madebyoliver
+
 dialogue assets - madebyoliver
+
 technology elements - madebyoliver
+
 emoticon set - madebyoliver
+
 http://www.flaticon.com/authors/madebyoliver
 
 young avatar colletion - freepik
+
 color professions avatar - freepik
+
 http://www.flaticon.com/authors/freepik
