@@ -38,7 +38,7 @@
      id="namedview40"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-9.1525424"
+     inkscape:cx="-42"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -122,11 +122,11 @@
      y="0.011861405"
      rx="23.9006"
      id="rect32"
-     style="fill:#dbdee3" />
+     style="fill:#b7c4c8" />
   <path
      d="M 10.026293,24.111075 A 13.788609,13.819124 0 0 1 23.8149,10.291954 13.788609,13.819124 0 0 1 37.603505,24.111075 13.788609,13.819124 0 0 1 23.8149,37.930204 13.788609,13.819124 0 0 1 10.026293,24.111075"
      id="path34"
-     style="fill:#373e48"
+     style="fill:#1c2224"
      inkscape:connector-curvature="0" />
   <ellipse
      cy="24.111067"
@@ -141,5 +141,5 @@
      rx="9.8497391"
      ry="9.8712101"
      id="ellipse38"
-     style="fill:#2a7fff" />
+     style="fill:#37abc8" />
 </svg>

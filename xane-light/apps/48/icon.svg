@@ -39,7 +39,7 @@
      id="namedview63"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-9.1525424"
+     inkscape:cx="-42.305085"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -100,9 +100,9 @@
   <g
      id="g21"
      transform="matrix(1.4830642,0,0,1.4766927,-106.60961,-11.242358)"
-     style="fill:#1a1a1a">
+     style="fill:#a0892c">
     <g
-       style="font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0;word-spacing:0;fill:#1a1a1a"
+       style="font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0;word-spacing:0;fill:#a0892c"
        id="g23"
        font-size="10"
        letter-spacing="0"
@@ -113,7 +113,7 @@
       <flowRoot
          id="flowRoot25"
          transform="translate(389.57,520.8)"
-         style="fill:#1a1a1a">
+         style="fill:#a0892c">
         <flowRegion
            id="flowRegion27">
           <use
@@ -130,9 +130,9 @@
       <g
          id="g33"
          transform="matrix(1.57636,0,0,1.57636,-222.96,-314.39)"
-         style="fill:#1a1a1a">
+         style="fill:#a0892c">
         <flowRoot
-           style="fill:#1a1a1a"
+           style="fill:#a0892c"
            id="flowRoot35"
            transform="translate(434.1,511.98)">
           <flowRegion
@@ -148,13 +148,13 @@
                height="48" />
           </flowRegion>
           <flowPara
-             style="fill:#1a1a1a"
+             style="fill:#a0892c"
              id="flowPara41">Plasm</flowPara>
         </flowRoot>
         <flowRoot
            id="flowRoot43"
            transform="translate(352.74,519.84)"
-           style="fill:#1a1a1a">
+           style="fill:#a0892c">
           <flowRegion
              id="flowRegion45">
             <use
@@ -171,11 +171,11 @@
       </g>
     </g>
     <g
-       style="fill:#1a1a1a;enable-background:new"
+       style="fill:#a0892c;enable-background:new"
        id="g51"
        transform="matrix(2.59107,0,0,2.59107,-871.66,-1350.99)">
       <flowRoot
-         style="font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0;word-spacing:0;fill:#1a1a1a"
+         style="font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0;word-spacing:0;fill:#a0892c"
          id="flowRoot53"
          font-size="10"
          letter-spacing="0"
@@ -186,7 +186,7 @@
         <flowRegion
            id="flowRegion55">
           <path
-             style="fill:#1a1a1a"
+             style="fill:#a0892c"
              inkscape:connector-curvature="0"
              id="path57"
              d="m 22,3 27,0 0,15 -27,0 z" />
@@ -195,7 +195,7 @@
            id="flowPara59">Plasm</flowPara>
       </flowRoot>
       <path
-         style="fill-opacity:0.847;fill:#1a1a1a"
+         style="fill-opacity:0.847;fill:#a0892c"
          inkscape:connector-curvature="0"
          id="path61"
          transform="matrix(0.09869,0,0,0.09869,364.18,524.37)"
