@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g fill="#566060" fill-rule="evenodd"><rect transform="matrix(-.66667 0 0 .66667 363.83-260.93)" y="406.76" x="517.25" height="2.274" width="24" rx=".3"/><g stroke="#566060" stroke-linejoin="round" stroke-linecap="round" transform="matrix(0 .66667.66667 0 363.83-260.93)"><rect y="-539.25" x="398.91" height="8" width="17.971" rx=".5"/><rect y="-526.75" x="402.9" height="7" width="10" rx=".5"/></g></g></svg>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+ <rect y="8.5" x="13.5" height="7" width="6" style="stroke-dasharray:none;stroke-opacity:1;fill:#fff;opacity:1;stroke-miterlimit:23.7;fill-opacity:1;stroke:#888;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <rect width="6" height="13" x="4.5" y="5.5" style="stroke-dasharray:none;stroke-opacity:1;fill:#fff;opacity:1;stroke-miterlimit:23.7;fill-opacity:1;stroke:#888;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <rect width="1" height="20" x="-13" y="2" transform="matrix(0,-1,1,0,0,0)" style="fill:#f9b13a;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+</svg>

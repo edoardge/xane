@@ -29,3 +29,7 @@ young avatar colletion - freepik
 color professions avatar - freepik
 
 http://www.flaticon.com/authors/freepik
+
+numix - numix project
+
+https://numixproject.org

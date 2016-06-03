@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=xane
+Comment=xane decoration theme
+
+
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Author=[edgarekººº]
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=xane-dark
+X-KDE-PluginInfo-Version=v1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Decoration
+X-KWin-Config-TranslationDomain=kwin_clients
+Type=Service
+
