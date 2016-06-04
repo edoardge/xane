@@ -2,43 +2,68 @@ xane
 
 icon pack for plasma desktop
 
+
 <a href='http://postimage.org/' target='_blank'><img src='http://s33.postimg.org/keqcvvyen/xanebyedgarek.png' border='0' alt="xanebyedgarek" /></a><br /><a target='_blank' href='http://postimage.org/index.php?lang=spanish'>
+
+
 
 v1 xane 
 
 icon pack (home/nameuser/local/share/icons)
+
 xane-dark
+
 xane-light
+
 
 v2 xane
 
 icon pack (home/nameuser/local/share/icons)
+
 xane-darkblue
+
 xane-darkbrown
+
 xane-darkgreen
+
 xane-darkyellow
+
 xane-lightblue
+
 xane-lightbrown
+
 xane-lightgreen
+
 xane-lightyellow
 
 color scheme (home/nameuser/local/share/color-scheme)
+
 xane-darkblue
+
 xane-darkbrown
+
 xane-darkgreen
+
 xane-darkyellow
+
 xane-lightblue
+
 xane-lightbrown
+
 xane-lightgreen
+
 xane-lightyellow
 
 plasma theme (home/nameuser/local/share/plasma/desktoptheme)
+
 xane-dark
+
 xane-light
 
 decoration kwin (home/nameuser/local/share/kwin/decorations)
 
 xane-dark
+
 xane-nb
 
 
