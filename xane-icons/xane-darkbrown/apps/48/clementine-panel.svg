@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="clementine-panel.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#797979"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-11.970358"
+     inkscape:cy="24.20339"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 47.32698,21.682576 c -0.328859,0.234478 -0.813592,0.246579 -1.165262,0.0348 L 34.5604,14.692156 29.064841,40.858226 c -0.02091,0.09984 -0.06463,0.189093 -0.129258,0.272295 -1.102532,3.751624 -7.117044,6.54719 -14.190368,6.54719 -7.9287443,0 -14.38046778,-3.494457 -14.38046778,-7.78916 0,-4.296215 6.44982248,-7.790672 14.38046178,-7.790672 3.256277,0 6.350973,0.579384 8.867792,1.642849 l 7.26912,-32.81310746 c 0.06463,-0.29952458 0.359273,-0.53853934 0.741359,-0.59451172 0.368778,-0.0514312 0.754664,0.0831972 0.95046,0.3479337 L 47.505667,20.764337 c 0.22621,0.305576 0.150178,0.685276 -0.180586,0.919753"
+     id="path4-9"
+     style="fill:#ffffff;fill-opacity:1;enable-background:new" />
+</svg>
