@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="zanshin.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-6.4067797"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="0"
+       x1="-1092.91"
+       y1="203.1"
+       x2="-1060.26"
+       y2="104.85"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35549817,0,0,0.35079591,388.94869,-29.943282)">
+      <stop
+         stop-color="#1584d8"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#1cb2ff"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="1"
+       x1="-989.67"
+       y1="433.28"
+       x2="-1003.64"
+       y2="317.35"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35600467,0,0,0.35121695,377.40795,-105.01947)">
+      <stop
+         stop-color="#e7f0f4"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#f4faff"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#5599ff"
+     inkscape:connector-curvature="0"
+     id="path22"
+     d="M 46.777205,3.1929131 44.133676,0.90022258 C 43.04557,-0.0444784 41.515347,0.25661039 40.725036,1.5714551 L 20.78633,34.995044 6.2652527,22.399049 C 5.1771436,21.454348 3.6469219,21.755436 2.8566114,23.070282 l -1.90132277,3.18767 C 0.17185042,27.570035 0.42154261,29.41524 1.5119401,30.368226 L 20.648885,46.96953 c 0.549779,0.47511 1.195774,0.646373 1.811985,0.524831 0.616212,-0.12154 1.193483,-0.533119 1.580619,-1.193306 L 47.310949,7.2976636 C 48.115004,5.9607179 47.867602,4.1265648 46.779496,3.1818667" />
+</svg>

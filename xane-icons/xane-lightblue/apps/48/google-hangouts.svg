@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="google-hangouts.svg">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="0"
+       gradientUnits="userSpaceOnUse"
+       x1="20.529"
+       y1="20.1"
+       x2="21.09"
+       y2="-6.355"
+       gradientTransform="matrix(1.71427,0,0,1.71427,-12.791,11.662)">
+      <stop
+         stop-color="#2eb435"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#6fe135"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     style="fill:#008033;fill-opacity:0.853"
+     id="g15"
+     transform="matrix(3.8486692,0,0,5.2918111,-58.601871,-7.8737988)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path17"
+       d="m 27.09,1.538 c 0.359,-10e-5 0.657,0.362 0.542,0.717 0.027,0.067 0.023,0.138 0.023,0.208 0,1.525 10e-5,3.051 0,4.577 -10e-5,1.363 -0.855,2.638 -2.114,3.162 -0.032,0.013 -0.062,0.031 -0.093,0.046 0.022,0.027 0.047,0.035 0.075,0.036 10e-5,0 0.002,0 0.003,0 0.001,0 -0.002,0 -0.003,0 -0.027,-1e-4 -0.053,-0.009 -0.075,-0.036 -0.017,0.005 -0.034,0.001 -0.052,0.014 -0.001,0.006 -0.019,0.011 -0.029,0.017 -0.263,0.074 -0.528,0.136 -0.8,0.176 C 24.36,10.485 24.204,10.369 24.201,10.16 24.199,10.014 24.198,9.868 24.197,9.722 24.199,9.461 24.202,9.199 24.204,8.938 24.2039,8.88 24.2,8.823 24.201,8.765 c 0,-0.201 0.078,-0.285 0.327,-0.342 0.316,-0.072 0.614,-0.174 0.861,-0.403 0.296,-0.275 0.445,-0.617 0.513,-1 -0.854,-0.002 -1.707,-0.003 -2.561,-0.005 -0.031,0 -0.062,0 -0.093,0 -0.062,0 -0.124,0 -0.186,-10e-5 -0.349,-0.006 -0.587,-0.247 -0.587,-0.597 0,-1.38 0.002,-2.76 0.004,-4.141 0,-0.013 -0.002,-0.026 -0.002,-0.04 -0.027,-0.258 0.048,-0.47 0.277,-0.614 0.089,-0.056 0.186,-0.079 0.289,-0.079 0.566,0 1.132,0 1.698,0 0.784,0 1.568,0 2.352,-10e-5"
+       style="fill:#008033" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path19"
+       d="m 19.889,1.538 c 0.36,-10e-5 0.657,0.362 0.542,0.717 0.028,0.067 0.023,0.138 0.023,0.208 0,1.523 0.009,3.046 -0.003,4.569 -0.008,1.01 -0.401,1.861 -1.141,2.55 -0.039,0.036 -0.076,0.073 -0.114,0.11 -0.384,0.294 -0.799,0.525 -1.269,0.653 -0.2,0.054 -0.404,0.085 -0.608,0.115 C 17.161,10.483 17.059,10.395 17,10.253 17.0001,9.815 17.0001,9.377 17.002,8.938 17.009,8.809 16.958,8.671 17.061,8.557 17.112,8.501 17.17,8.462 17.249,8.442 17.479,8.384 17.711,8.338 17.92,8.213 18.305,7.983 18.545,7.652 18.651,7.219 18.668,7.151 18.683,7.082 18.699,7.014 17.775,7.012 16.85,7.011 15.926,7.009 c -0.08,0 -0.159,-0.003 -0.237,-0.024 -0.236,-0.065 -0.416,-0.28 -0.416,-0.523 -0.002,-1.398 10e-5,-2.795 0.002,-4.193 -0.019,-0.223 0,-0.432 0.188,-0.592 0.102,-0.086 0.214,-0.139 0.348,-0.139 0.47,0 0.941,0 1.411,0 0.314,0 0.628,0 0.942,0 0.574,0 1.149,0 1.723,-10e-5"
+       style="fill:#008033" />
+  </g>
+</svg>

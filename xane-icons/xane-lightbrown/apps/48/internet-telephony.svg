@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="internet-telephony.svg">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-6.4067797"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       xlink:href="#1"
+       id="0"
+       gradientUnits="userSpaceOnUse"
+       x1="62.28"
+       y1="35.922"
+       x2="62.58"
+       y2="-9.27"
+       gradientTransform="matrix(1.04347,0,0,1.04347,-41.08,10.312)" />
+    <linearGradient
+       id="1">
+      <stop
+         stop-color="#1edf19"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#7af36f"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-8.317"
+       x2="56.24"
+       y1="36.966"
+       x1="53.19"
+       id="2"
+       xlink:href="#1"
+       gradientTransform="matrix(1.04347,0,0,1.04347,-41.08,10.312)" />
+  </defs>
+  <path
+     style="fill:#165016;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path17"
+     d="m 46.795814,39.159318 -7.02041,-7.540415 c -1.399348,-1.496099 -3.946157,-1.658467 -5.677038,-0.359529 l -4.23033,3.175827 C 29.635528,34.294103 29.394412,34.147193 29.140376,33.990625 26.80885,32.573777 23.618343,30.631166 20.401999,27.175063 17.174893,23.709292 15.611932,20.541198 14.466622,18.229396 14.346045,17.983911 14.229809,17.748093 14.115708,17.52387 l 2.839596,-2.128171 1.397193,-1.049589 c 1.733035,-1.300872 2.004295,-3.579813 0.609254,-5.0817108 L 11.94134,1.7220497 C 10.546301,0.22401816 7.9973379,0.06164986 6.2643028,1.3625228 L 3.8961792,3.150495 3.9500069,3.208476 C 3.1383867,3.9855198 2.4344075,4.89787 1.8768215,5.9010682 1.3601397,6.8559426 1.0070741,7.7779585 0.7939441,8.7135027 -0.97784327,16.209462 2.1889831,23.444473 11.719605,33.681346 24.894982,47.830499 36.65164,47.784109 37.159709,47.776377 c 1.106562,-0.02899 2.180827,-0.179759 3.285233,-0.467771 1.186216,-0.309272 2.312151,-0.769313 3.306762,-1.347263 l 0.04305,0.04254 2.393959,-1.758978 c 1.730882,-1.300872 2.004295,-3.581746 0.609253,-5.083645" />
+</svg>

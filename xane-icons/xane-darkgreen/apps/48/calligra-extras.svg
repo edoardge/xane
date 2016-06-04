@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="calligra-extras.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-42"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="0"
+       x1="11.941"
+       y1="216.07"
+       x2="10.719"
+       y2="116.52"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#8798a9"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#aeb6be"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 24.085932,0.25423729 c -13.059407,0 -23.62830488,10.57677971 -23.62830488,23.62830471 0,13.051526 10.56889788,23.659831 23.62830488,23.659831 13.059407,0 23.659831,-10.609882 23.659831,-23.659831 0,-13.051525 -10.598848,-23.62830471 -23.659831,-23.62830471 m -3.374797,11.99699971 6.78112,0 0,8.127254 7.827762,0 0,7.041203 -7.827762,0 0,8.127256 -6.78112,0 0,-8.127256 -7.827762,0 0,-7.041203 7.827762,0 0,-8.127254 z"
+     id="path13"
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#6f918a" />
+</svg>

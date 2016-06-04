@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="preferences-system-windows.svg">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-42.305085"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="0"
+       y1="542.8"
+       x2="0"
+       y2="507.8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0909084,0,0,1.4002746,-421.71445,-710.86399)">
+      <stop
+         stop-color="#197cf1"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#20bcfa"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#80b3ff;stroke-width:1"
+     id="rect13"
+     rx="1.7042691"
+     width="47.997356"
+     height="47.609692"
+     x="-0.0011658618"
+     y="0.20040652" />
+  <g
+     style="fill:#0b1728;fill-opacity:0.847"
+     id="g15"
+     transform="matrix(0.97804724,0,0,1.2856075,-321.59901,-661.025)">
+    <circle
+       id="circle17"
+       cx="373.37"
+       cy="518.73999"
+       r="2.25"
+       style="fill:#0b1728" />
+    <circle
+       id="circle19"
+       cx="367.84"
+       cy="518.78003"
+       r="2.25"
+       style="fill:#0b1728" />
+    <circle
+       id="circle21"
+       cx="362.41"
+       cy="518.84003"
+       r="2.25"
+       style="fill:#0b1728" />
+  </g>
+</svg>

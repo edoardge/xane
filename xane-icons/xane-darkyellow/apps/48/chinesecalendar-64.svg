@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chinesecalendar-64.svg">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="694"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-9.1525424"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="0"
+       gradientUnits="userSpaceOnUse"
+       x1="469.05"
+       y1="76.873"
+       x2="469.39"
+       y2="-3.038">
+      <stop
+         stop-color="#fefffe"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#f1f1f0"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-75.34"
+       x2="467.54"
+       y1="130.35"
+       x1="468.86"
+       id="1">
+      <stop
+         stop-color="#124da4"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#2896ff"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.99787,0,0,1,0.79,0.581)"
+       gradientUnits="userSpaceOnUse"
+       y2="36.36"
+       x2="472.17"
+       y1="122.17"
+       x1="469.01"
+       id="2">
+      <stop
+         stop-color="#2381dd"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#2381dd"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#0066ff"
+     inkscape:connector-curvature="0"
+     id="path29"
+     d="m 14.300754,0.20728814 4.882369,1.01890226 q -0.698404,1.6313777 -1.627456,3.058597 l 23.478485,0 0,16.1058386 -34.8685249,0 0,2.65028 41.1498599,0 0,3.260865 -41.1498599,0 0,2.65028 41.6111529,0 q -0.698405,13.2514 -2.323707,15.90168 -1.394655,2.854438 -5.345817,2.854438 -1.860258,0 -5.81142,-0.612475 l -0.929052,-4.077499 q 4.416765,0.612475 6.277025,0.612475 1.394654,0 1.860258,-1.223061 0.698404,-1.427219 1.161853,-9.988644 l -41.1498605,0 0,-28.1322872 10.9265925,0 Q 13.604504,2.2488732 14.30291,0.20917848 m -8.1372829,7.33836442 0,3.2627551 30.2211129,0 0,-3.2627551 -30.2211129,0 m 0,6.3194621 0,3.260865 30.2211129,0 0,-3.260865 -30.2211129,0 m 9.9953849,19.775021 4.649568,0 0,5.504718 11.39004,0 0,-5.096402 4.416765,0 0,8.359159 -31.6157665,0 0,3.465022 -4.64956765,0 0,-11.620022 4.64956765,0 0,4.892243 11.1572375,0 0,-5.504718" />
+</svg>
