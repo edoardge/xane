@@ -1,24 +1,20 @@
-xane
+# **xane**
 
 icon pack for plasma desktop
 
 
-<a href='http://postimage.org/' target='_blank'><img src='http://s33.postimg.org/keqcvvyen/xanebyedgarek.png' border='0' alt="xanebyedgarek" /></a><br /><a target='_blank' href='http://postimage.org/index.php?lang=spanish'>
+**v1 xane **
 
-
-
-v1 xane 
-
-icon pack (home/nameuser/local/share/icons)
+icon pack *home/nameuser/local/share/icons*
 
 xane-dark
 
 xane-light
 
 
-v2 xane
+**v1.1 xane**
 
-icon pack (home/nameuser/local/share/icons)
+icon pack *home/nameuser/local/share/icons*
 
 xane-darkblue
 
@@ -36,7 +32,7 @@ xane-lightgreen
 
 xane-lightyellow
 
-color scheme (home/nameuser/local/share/color-scheme)
+color scheme *home/nameuser/local/share/color-scheme*
 
 xane-darkblue
 
@@ -54,13 +50,13 @@ xane-lightgreen
 
 xane-lightyellow
 
-plasma theme (home/nameuser/local/share/plasma/desktoptheme)
+plasma theme *home/nameuser/local/share/plasma/desktoptheme*
 
 xane-dark
 
 xane-light
 
-decoration kwin (home/nameuser/local/share/kwin/decorations)
+decoration kwin *home/nameuser/local/share/kwin/decorations*
 
 xane-dark
 
@@ -68,7 +64,7 @@ xane-nb
 
 
 
-based on:
+**based on:**
 
 antu - fabianalexisinostroza
 
