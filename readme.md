@@ -3,7 +3,7 @@
 icon pack for plasma desktop
 
 
-**v1 xane **
+**v1 xane**
 
 icon pack *home/nameuser/local/share/icons*
 
