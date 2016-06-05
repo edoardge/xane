@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="694"
+     inkscape:window-height="688"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-1.0715713"
+     inkscape:cx="-34.224114"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -92,57 +92,58 @@
          id="stop16" />
     </linearGradient>
   </defs>
+  <polygon
+     style="fill:#d4aa00"
+     points="0.5,59 58.5,59 58.5,22 30.5,22 25.5,15 20.5,8 0.5,8 0.5,15 "
+     id="polygon3"
+     transform="matrix(0.82115722,0,0,0.80695202,-0.12244283,0.19491517)" />
+  <polygon
+     style="fill:#fff6d5"
+     points="30.5,22 58.5,22 58.5,15 25.5,15 "
+     id="polygon5"
+     transform="matrix(0.82115722,0,0,0.80695202,-0.12244283,0.19491517)" />
+  <polygon
+     style="fill:#aa8800"
+     points="3.5,8 20.5,8 25.5,15 58.5,15 58.5,11 28.5,11 23.5,4 3.5,4 "
+     id="polygon7"
+     transform="matrix(0.82115722,0,0,0.80695202,-0.12244283,0.19491517)" />
+  <polygon
+     style="fill:#554400"
+     points="6.5,4 23.5,4 28.5,11 58.5,11 58.5,7 31.5,7 26.5,0 6.5,0 "
+     id="polygon9"
+     transform="matrix(0.82115722,0,0,0.80695202,-0.12244283,0.19491517)" />
+  <rect
+     x="22.459381"
+     y="29.245188"
+     style="fill:#fff6d5"
+     width="21.350088"
+     height="14.525136"
+     id="rect11" />
   <g
-     transform="matrix(0.82115722,0,0,0.80695202,-0.12244283,0.19491517)"
-     id="g4156">
-    <polygon
-       id="polygon3"
-       points="0.5,8 0.5,15 0.5,59 58.5,59 58.5,22 30.5,22 25.5,15 20.5,8 "
-       style="fill:#ff9955" />
-    <polygon
-       id="polygon5"
-       points="58.5,15 25.5,15 30.5,22 58.5,22 "
-       style="fill:#ffccaa" />
-    <polygon
-       id="polygon7"
-       points="23.5,4 3.5,4 3.5,8 20.5,8 25.5,15 58.5,15 58.5,11 28.5,11 "
-       style="fill:#d45500" />
-    <polygon
-       id="polygon9"
-       points="26.5,0 6.5,0 6.5,4 23.5,4 28.5,11 58.5,11 58.5,7 31.5,7 "
-       style="fill:#552200" />
+     id="g13"
+     style="fill:#554400"
+     transform="matrix(0.82115722,0,0,0.80695202,-0.12244283,0.19491517)">
     <rect
-       id="rect11"
-       height="18"
-       width="26"
-       style="fill:#ffccaa"
-       y="36"
-       x="27.5" />
-    <g
-       style="fill:#2b1100"
-       id="g13">
-      <rect
-         id="rect15"
-         height="2"
-         width="10"
-         style="fill:#2b1100"
-         y="40"
-         x="32.5" />
-      <rect
-         id="rect17"
-         height="2"
-         width="16"
-         style="fill:#2b1100"
-         y="44"
-         x="32.5" />
-      <rect
-         id="rect19"
-         height="2"
-         width="16"
-         style="fill:#2b1100"
-         y="48"
-         x="32.5" />
-    </g>
+       x="32.5"
+       y="40"
+       style="fill:#554400"
+       width="10"
+       height="2"
+       id="rect15" />
+    <rect
+       x="32.5"
+       y="44"
+       style="fill:#554400"
+       width="16"
+       height="2"
+       id="rect17" />
+    <rect
+       x="32.5"
+       y="48"
+       style="fill:#554400"
+       width="16"
+       height="2"
+       id="rect19" />
   </g>
   <path
      inkscape:connector-curvature="0"
