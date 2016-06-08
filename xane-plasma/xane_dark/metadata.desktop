@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=xane dark
+Name=xane-dark
 
 Comment=An elegant dark theme
 Comment[es]=Un tema oscuro elegante
@@ -16,9 +16,9 @@ Comment[zh_TW]=優雅的深色主題為
 Comment[zh_CN]=優雅的深色主題為
 Comment[x-test]=xxAn elegant dark theme
 
-X-KDE-PluginInfo-Author=[edgarekººº]
-X-KDE-PluginInfo-Email=
-X-KDE-PluginInfo-Name=xane dark
+X-KDE-PluginInfo-Author=edgarek
+X-KDE-PluginInfo-Email=edgarek.xane@openmailbox.org
+X-KDE-PluginInfo-Name=xane-dark
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=Plasma Theme
