@@ -82,6 +82,10 @@ xane-lightgreen
 
 xane-lightyellow
 
+**xane v1.3**
+
+qtcurve *home/username/local/share/qtcurve*
+
 
 **based on:**
 
