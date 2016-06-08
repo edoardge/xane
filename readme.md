@@ -62,6 +62,25 @@ xane-dark
 
 xane-nb
 
+**v1.2 xane**
+
+plasma theme *home/username/local/share/plasma/desktoptheme*
+
+xane-darkblue
+
+xane-darkbrown
+
+xane-darkgreen
+
+xane-darkyellow
+
+xane-lightblue
+
+xane-lightbrown
+
+xane-lightgreen
+
+xane-lightyellow
 
 
 **based on:**

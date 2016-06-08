@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=xane-darkblue
+
+Comment=An elegant dark theme
+Comment[es]=Un tema oscuro elegante
+Comment[gl]=Un tema escuro elegante
+Comment[ca]=Un tema fosc elegant
+Comment[it]=Un elegante tema scuro
+Comment[de]=Ein elegantes dunkles Thema
+Comment[fr]=Un thème sombre élégant
+comment[fi]=Tummat teema
+Comment[ru]=Элегантный темно-тема
+Comment[ru_RU]=Элегантный темно-тема
+Comment[pt_BR]=Um tema escuro elegante
+Comment[zh_TW]=優雅的深色主題為
+Comment[zh_CN]=優雅的深色主題為
+Comment[x-test]=xxAn elegant dark theme
+
+X-KDE-PluginInfo-Author=edgarek
+X-KDE-PluginInfo-Email=edgarek.xane@openmailbox.org
+X-KDE-PluginInfo-Name=xane-darkblue
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
